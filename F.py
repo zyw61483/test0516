@@ -108,7 +108,6 @@ def go(keys):
 		end=end+17
 		
 
-
 def handelKeys(keys):
 	dictkey = {'20180520':[],'20180524':[],'20180525':[],'20180526':[],'20180527':[],'20180528':[]}
 	for key in keys :

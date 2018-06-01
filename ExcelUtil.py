@@ -1,6 +1,7 @@
 #! usr/bin/python3
 import xlrd
 
+
 def getColDate(filename):
 	return getColDateBySICI(filename,0,0)
 

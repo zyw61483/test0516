@@ -6,3 +6,4 @@ mycookie = {"session":".eJxNkD1uwzAMhe_C2Sj0T8lT1y49gRbGohsDtR3EEdI6yN1DBW3RhQAf
 r = requests.get(url_file,cookies = mycookie) 
 with open("20180507.tar.gz", "wb") as code:
      code.write(r.content)
+	 

@@ -19,3 +19,4 @@ for key in list:
 		with open("keyNot.txt",'a+') as w:
 			w.write(key+"\n")
 		
+		
